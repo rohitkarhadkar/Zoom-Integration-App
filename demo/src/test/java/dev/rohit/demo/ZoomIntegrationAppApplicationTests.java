@@ -1,0 +1,13 @@
+package dev.rohit.demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ZoomIntegrationAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
